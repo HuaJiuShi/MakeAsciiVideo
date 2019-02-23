@@ -1,0 +1,2 @@
+# MakeAsciiVedio
+使用python以及opencv创建字符视频
